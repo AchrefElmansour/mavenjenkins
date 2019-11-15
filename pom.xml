@@ -15,9 +15,9 @@
 
 	<distributionManagement>
 		<repository>
-			<id>nexus-snapshots</id>
-			<name>snapshots</name>
-			<url>http://localhost:8084/nexus/content/repositories/snapshots/</url>
+			<id>repository_achref</id>
+			<name>repository_achref</name>
+			<url>http://localhost:8084/nexus/content/repositories/repository_achref/</url>
 		</repository>
 	</distributionManagement>
 
